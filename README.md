@@ -1,2 +1,0 @@
-# longitudinal
-longitudinal data analysis
